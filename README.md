@@ -1,4 +1,4 @@
-# local_auth
+# local_auth old
 
 This Flutter plugin provides means to perform local, on-device authentication of
 the user.
